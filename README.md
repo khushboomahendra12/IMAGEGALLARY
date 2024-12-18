@@ -1,2 +1,2 @@
-# IMAGEGALLARY
-this is Image Gallary app
+# image-gallery
+Image gallery app
